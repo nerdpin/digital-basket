@@ -1,7 +1,7 @@
 
 ## Important Points
  ### - Use dedicated folders for relevant files.
- ### - All script files should be inside script folder.
+ ### - All scripts files should be inside script folder.
  ### - Must add 'utility.css' in your html page. 
  ### - keep your id and class names unique and should follow this structure: <working area>_<working component>.
  ### - Don't hard code any layout component,  use flex and grid.
@@ -25,4 +25,3 @@
  ### large screen - @media all and (min-width: 768px) and (max-width: 1024px) 
  ### medium screen - @media all and (min-width: 481px) and (max-width: 767px)   
  ### small screen - @media all and (max-width: 480px) 
-
